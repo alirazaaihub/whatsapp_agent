@@ -271,11 +271,11 @@ class AgentState(TypedDict):
 
 ## Author
 
-**Ali** — AI/ML Engineer  
+**Ali** — AI Engineer  
 Building production-grade agentic AI systems.
 
 ---
-
+📌 [LinkedIn](www.linkedin.com/in/alirazaaihub)
 ## License
 
 MIT License — free to use, modify, and distribute.
